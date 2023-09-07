@@ -1,0 +1,22 @@
+/* .attribution {
+    font-size: 11px;
+    text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+} */
+.body{
+    color: hsl(228, 45%, 44%);
+}
+.outer-rectangle{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    background-color:hsl(228, 45%, 44%); ;
+}
+
+.qr-div{
+    display: flex;
+    justify-content: center;
+}
